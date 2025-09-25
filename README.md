@@ -1,3 +1,5 @@
+##Pegar o Repositório  
+
 # ou crie um novo repositório na linha de comando
 echo "# redes" >> README.md
 git init
